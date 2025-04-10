@@ -17,5 +17,5 @@
 
 setTimeout(function() {
     document.getElementById('viewListBtn').click();
-}, 1000)
+}, 500)
 ();
