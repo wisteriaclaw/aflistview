@@ -11,7 +11,7 @@
 // @match        https://artfight.net/manage/bookmarks/folders/unorganized?page=4
 // @match        https://artfight.net/manage/bookmarks/folders/unorganized?page=5
 // @match        https://artfight.net/manage/bookmarks/folders/unorganized?page=6
-// @icon         https://artfight.net/manage/bookmarks/folders/unorganized
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=artfight.net
 // @grant        none
 // ==/UserScript==
 
